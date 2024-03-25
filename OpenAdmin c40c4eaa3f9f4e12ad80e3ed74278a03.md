@@ -1,0 +1,121 @@
+# OpenAdmin
+
+![https://lh7-us.googleusercontent.com/ds7h9-CPQWUW4wNHHzeNQd59B3F8g5T2eoiuZLka4Ij9rNm-CSWd1aaZAYczzSY9FnMz1O0QM-oac27XlJClRnrTWCsxSH-XcuRdpi2bjn6Y8Kbc_Wm6XU74hP6yAFldQIxDHESoW2PX](https://lh7-us.googleusercontent.com/ds7h9-CPQWUW4wNHHzeNQd59B3F8g5T2eoiuZLka4Ij9rNm-CSWd1aaZAYczzSY9FnMz1O0QM-oac27XlJClRnrTWCsxSH-XcuRdpi2bjn6Y8Kbc_Wm6XU74hP6yAFldQIxDHESoW2PX)
+
+truy cập p80 ko thấy gì bất thường
+
+tìm các đường dẫn ẩn
+
+python3 dirsearch.py -u http://10.10.10.171
+
+![https://lh7-us.googleusercontent.com/6wVB9Aq5h80bDQ4vqIPxwmxspYv2aaCTkJ3O8pawO0EkEicgeJz7_PCkBUwvPiX5FhI3wScqJ6SZcaZ0nzJro4cEbXo419fOwB4YQ3nXvrrysILUK0iEIt98RAGt6OUHqFFj8FF-EzYl](https://lh7-us.googleusercontent.com/6wVB9Aq5h80bDQ4vqIPxwmxspYv2aaCTkJ3O8pawO0EkEicgeJz7_PCkBUwvPiX5FhI3wScqJ6SZcaZ0nzJro4cEbXo419fOwB4YQ3nXvrrysILUK0iEIt98RAGt6OUHqFFj8FF-EzYl)
+
+Từ link login trên /music vẫn chuyển hướng về /ona
+
+hoặc sử dụng dirbuster [Hack Like a Pro: How to Find Directories in Websites Using DirBuster « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-find-directories-websites-using-dirbuster-0157593/) tìm thấy thư mục
+
+![https://lh7-us.googleusercontent.com/M18gPqW_qqstpJY87qh7HfWsfF6ONCCw5jqngEvUJgnTn0PJZjg5_dv7MsVK1xaOxXYcYCM8VN2TGHorghPQEmwL36wpUbJgoFTFECJLFE_IV9RtJRoDpKJj1h94uzE-TQH17x15JA3B](https://lh7-us.googleusercontent.com/M18gPqW_qqstpJY87qh7HfWsfF6ONCCw5jqngEvUJgnTn0PJZjg5_dv7MsVK1xaOxXYcYCM8VN2TGHorghPQEmwL36wpUbJgoFTFECJLFE_IV9RtJRoDpKJj1h94uzE-TQH17x15JA3B)
+
+![https://lh7-us.googleusercontent.com/ZZWpY4-Ouw5eP8Wk1nm1MkFQUmHq5qO6hqoa3-uEC1M1f5_WHrHrcAD5UOVLAag4wrctbQqz38gLSTxeuvpcCVp7Ab8cil8loET_wyBS3leJq8nQPB877wF5pborLexPeOTFu0OexrLw](https://lh7-us.googleusercontent.com/ZZWpY4-Ouw5eP8Wk1nm1MkFQUmHq5qO6hqoa3-uEC1M1f5_WHrHrcAD5UOVLAag4wrctbQqz38gLSTxeuvpcCVp7Ab8cil8loET_wyBS3leJq8nQPB877wF5pborLexPeOTFu0OexrLw)
+
+truy cập /ona
+
+![https://lh7-us.googleusercontent.com/i5bm23MGQ35DaqJfRi8em57Ao0ULWuQSJfMNISUn5GYqe7PI6dch9vwtozdDbnge063UNi3X3DumwYIDfNANfUGtyPLHo_Nl_w-dJew6mmKiqKcxOlCY7EuOM_Wm1Ybwo0tM8Tc4Uerq](https://lh7-us.googleusercontent.com/i5bm23MGQ35DaqJfRi8em57Ao0ULWuQSJfMNISUn5GYqe7PI6dch9vwtozdDbnge063UNi3X3DumwYIDfNANfUGtyPLHo_Nl_w-dJew6mmKiqKcxOlCY7EuOM_Wm1Ybwo0tM8Tc4Uerq)
+
+![https://lh7-us.googleusercontent.com/tkQW7sDd8tblMe50sRiOcjEr28-xsJxqJRrMUdu_1PQVTLiQt1aJUSO2UjABJu41gM3JsWYKqukDESDR4KDtTgV3nTs9l4pNjsyTzw9HNxoJlxOABbv6YORC_2uggEgCEA5dNA1JGUOg](https://lh7-us.googleusercontent.com/tkQW7sDd8tblMe50sRiOcjEr28-xsJxqJRrMUdu_1PQVTLiQt1aJUSO2UjABJu41gM3JsWYKqukDESDR4KDtTgV3nTs9l4pNjsyTzw9HNxoJlxOABbv6YORC_2uggEgCEA5dNA1JGUOg)
+
+![https://lh7-us.googleusercontent.com/U0KRtLiA4GXiV8iB75RPVEbdEjSjZ-3u2W6jVV8IIzK-rULJpBAKl-xFu7gBf2wSv19OF8-da1xEAMTYgVRP9p_GowL79R12hA9ju0MKAT9eteyCwOwZ5MiQNXIqNNDCPGBLQJ1BlSfn](https://lh7-us.googleusercontent.com/U0KRtLiA4GXiV8iB75RPVEbdEjSjZ-3u2W6jVV8IIzK-rULJpBAKl-xFu7gBf2wSv19OF8-da1xEAMTYgVRP9p_GowL79R12hA9ju0MKAT9eteyCwOwZ5MiQNXIqNNDCPGBLQJ1BlSfn)
+
+phát hiện thư mục của 2 user nhưng ko đc phép truy cập
+
+![https://lh7-us.googleusercontent.com/DkGY74sQGsgReLO_tGp5A3iyNyrrMgRp0I4z0IEA8f61StI1KxpkUvxXfaNVElqEoZg5sAwaOIamnByuJt6sZP-pQYC_L3eu6Z5YuOV6gefU_p2JB_KLNqkbW4n1qYmz_qps3SeT4dmY](https://lh7-us.googleusercontent.com/DkGY74sQGsgReLO_tGp5A3iyNyrrMgRp0I4z0IEA8f61StI1KxpkUvxXfaNVElqEoZg5sAwaOIamnByuJt6sZP-pQYC_L3eu6Z5YuOV6gefU_p2JB_KLNqkbW4n1qYmz_qps3SeT4dmY)
+
+![https://lh7-us.googleusercontent.com/Sv6qYl6kyzxRweTyLBX8h8W9FObXFOThTksbZhvPIJBYOKBbGwF3kLEsYbJnMYUP3074OvUSH-jxsvokKGuCfhIJ_FCKv3hp7S-S9jXSstr2q-lpu2-SUGS9wkmZ7MLdbFyrci5mFpeO](https://lh7-us.googleusercontent.com/Sv6qYl6kyzxRweTyLBX8h8W9FObXFOThTksbZhvPIJBYOKBbGwF3kLEsYbJnMYUP3074OvUSH-jxsvokKGuCfhIJ_FCKv3hp7S-S9jXSstr2q-lpu2-SUGS9wkmZ7MLdbFyrci5mFpeO)
+
+thử di chuyển sang đường dẫn khác nhưng khả năng ko có quyền. nhưng truy cập theo đường dẫn tuyệt đối thì vẫn truy cập được
+
+/var directory tree is where data that is likely to change is stored.
+
+This folder contains variable data for databases, logs, and websites.
+
+![https://lh7-us.googleusercontent.com/m_YyMiAzunm72-FmUxxUqa3mL5UKJkRrTkQ_uXZAoBcHfvCYOjRbeXAR46I6PIOJuStw_DywBp9THzvGrletklu_JFATY_hBUX7b2rD06dkjJ7opIMhATeqdi2v-j90edSgXV7sbiPRp](https://lh7-us.googleusercontent.com/m_YyMiAzunm72-FmUxxUqa3mL5UKJkRrTkQ_uXZAoBcHfvCYOjRbeXAR46I6PIOJuStw_DywBp9THzvGrletklu_JFATY_hBUX7b2rD06dkjJ7opIMhATeqdi2v-j90edSgXV7sbiPRp)
+
+tìm đường dẫn chứa dữ liệu, thấy pw
+
+![https://lh7-us.googleusercontent.com/uSN-YDG03nmpk8Ia5w9TIu9-1n51vUtwevoByiZ-Jhp4CQVk2lZCNmz05GRwEjFQCHDt3SqtUVl7XqapGtWhxEqApfG5n2pc436P_1f2QiRlbnUrG41MYHEVmlnXG45Xacx0TE8aPFz4](https://lh7-us.googleusercontent.com/uSN-YDG03nmpk8Ia5w9TIu9-1n51vUtwevoByiZ-Jhp4CQVk2lZCNmz05GRwEjFQCHDt3SqtUVl7XqapGtWhxEqApfG5n2pc436P_1f2QiRlbnUrG41MYHEVmlnXG45Xacx0TE8aPFz4)
+
+n1nj4W4rri0R!
+
+dùng pw thử ssh đến jimmy hoặc joanna -> thành công với jimmy
+
+![https://lh7-us.googleusercontent.com/LP7iBfRTXfPNEoq_HtPlaEmdA_PZD1-dEf5YSrw_8bWbTlbf1C7oFHL9qujktZClOA6lVcKZZ5WPcCosLaCd3e3jqAO30EllPjJzJyX9sAi69zgCmXXAqTOKEmJqlY4HpJ25qwvqlLxQ](https://lh7-us.googleusercontent.com/LP7iBfRTXfPNEoq_HtPlaEmdA_PZD1-dEf5YSrw_8bWbTlbf1C7oFHL9qujktZClOA6lVcKZZ5WPcCosLaCd3e3jqAO30EllPjJzJyX9sAi69zgCmXXAqTOKEmJqlY4HpJ25qwvqlLxQ)
+
+![https://lh7-us.googleusercontent.com/uFbkep6Xz82AcPpuxeDZiOMrjbXsGCVNUVBYIqOVaVxkrup499BQamtTPeey3SY2dbP9YzDMhIqUtfRlgLWY73CZFlF3NQqGw9OTYErOFPQxQ0T2To_Dy86WGqzB_dcRIaVuxq3gWIRG](https://lh7-us.googleusercontent.com/uFbkep6Xz82AcPpuxeDZiOMrjbXsGCVNUVBYIqOVaVxkrup499BQamtTPeey3SY2dbP9YzDMhIqUtfRlgLWY73CZFlF3NQqGw9OTYErOFPQxQ0T2To_Dy86WGqzB_dcRIaVuxq3gWIRG)
+
+ko có flag user.txt, tìm thêm thông tin và chuyển sang user khác
+
+tìm thấy thư mục có thể truy cập bởi jimmy
+
+![https://lh7-us.googleusercontent.com/K7OrkRWH_I85OScwXJ8RzXyVkjjxYsE4oJbnI0Ter7aSbK2yBDqyF0ugAhBlPL6AmYR4C_-gHv-ATuvIbi67uQFgBkVZLxwT5EkZE5tqAAerR_JPq5N7FPulgGipVJsRmvgga5jgXsVR](https://lh7-us.googleusercontent.com/K7OrkRWH_I85OScwXJ8RzXyVkjjxYsE4oJbnI0Ter7aSbK2yBDqyF0ugAhBlPL6AmYR4C_-gHv-ATuvIbi67uQFgBkVZLxwT5EkZE5tqAAerR_JPq5N7FPulgGipVJsRmvgga5jgXsVR)
+
+![https://lh7-us.googleusercontent.com/xmroSFmmRZQN5JyTz6PvlbitELhGWe4rA3a7oU03VteLvSXmwrloeZG7UtH37wrQ65rezFx9E5nKkSzLj5DFljYg9m5XDZbMpeHMRvsTSZKch_YD1ghBi55TpKpg08YH5zf6Lrs3uGDj](https://lh7-us.googleusercontent.com/xmroSFmmRZQN5JyTz6PvlbitELhGWe4rA3a7oU03VteLvSXmwrloeZG7UtH37wrQ65rezFx9E5nKkSzLj5DFljYg9m5XDZbMpeHMRvsTSZKch_YD1ghBi55TpKpg08YH5zf6Lrs3uGDj)
+
+![https://lh7-us.googleusercontent.com/L7oUvBVyzHJC-13HoaxvtQx48no90NahiDOJJiC7OOFT44g_gEj_5JDwkHMWO3r5LGEoIcAOYytszJ_sIlUpTeLoPDoC1ILNWSUXYzJeu8psaKG4swkyxFBXw8Xkdxj_-ok95H-_3IdM](https://lh7-us.googleusercontent.com/L7oUvBVyzHJC-13HoaxvtQx48no90NahiDOJJiC7OOFT44g_gEj_5JDwkHMWO3r5LGEoIcAOYytszJ_sIlUpTeLoPDoC1ILNWSUXYzJeu8psaKG4swkyxFBXw8Xkdxj_-ok95H-_3IdM)
+
+nội dung file main.php cho thấy có thể đọc private key from user Joanna and login as Joanna
+
+![https://lh7-us.googleusercontent.com/V__pmFWHgYccqD2Da3oV7alHyr3NGYC456Hl8b4fKMp1HvzmyzQ-VH9hLCinAj44XEMtAtWL1rG5uSIHlcjtVWi59BYYaK98VGOhi0mJJFiX5u3665z8PzBMSu3LfhE2oS866d3KNRyt](https://lh7-us.googleusercontent.com/V__pmFWHgYccqD2Da3oV7alHyr3NGYC456Hl8b4fKMp1HvzmyzQ-VH9hLCinAj44XEMtAtWL1rG5uSIHlcjtVWi59BYYaK98VGOhi0mJJFiX5u3665z8PzBMSu3LfhE2oS866d3KNRyt)
+
+tìm thấy 1 giá trị hash trong file index.php
+
+![https://lh7-us.googleusercontent.com/LCOJUTM5mIdl_HQcT5DGPdvowwPUnDGmhzvq_J_RUrPQBbdLpGKgOlfw7Rz0pIcU5dXBjVaqk0ADUr3I69x67Jxel083NnwrTJulL3anUh3KrQ4xAk0FQGsqu2MFJ5jJjfjha0NLu4cF](https://lh7-us.googleusercontent.com/LCOJUTM5mIdl_HQcT5DGPdvowwPUnDGmhzvq_J_RUrPQBbdLpGKgOlfw7Rz0pIcU5dXBjVaqk0ADUr3I69x67Jxel083NnwrTJulL3anUh3KrQ4xAk0FQGsqu2MFJ5jJjfjha0NLu4cF)
+
+Revealed
+
+/etc This directory contains all the administration system files
+
+![https://lh7-us.googleusercontent.com/OF0Cs806j-N2_IBcZnoBMHjqRaU__GxAxL7vMC8ZQqRiT347QM98QDXgic2TSaDeIvqnthFdua9hRx2_PASWnW6Gl_sc4x-qz8KInhdgYaLXDMJAZCZTeNjnC5ftBTA-TPo1tOPN54up](https://lh7-us.googleusercontent.com/OF0Cs806j-N2_IBcZnoBMHjqRaU__GxAxL7vMC8ZQqRiT347QM98QDXgic2TSaDeIvqnthFdua9hRx2_PASWnW6Gl_sc4x-qz8KInhdgYaLXDMJAZCZTeNjnC5ftBTA-TPo1tOPN54up)
+
+từ file thấy virtual host với p:52846 run as joanna
+
+truy cập [http://127.0.0.1:52846/](http://127.0.0.1:52846/) có giao diện đăng nhập, thử với jimmy:Revealed
+
+có được giá trị key
+
+![https://lh7-us.googleusercontent.com/PYatWK5TGA0K07SS0CxSqcbxTcEfGiwRbABw3i-CZL0hR1Eh-yu31JPEHfT3tI67r1ZGIxeIK5fGZievDH596Z6CkX5CCCr_mxcNDgIgnCFyVSztz96F4Tbe2uhxbTQ4dsDzP0g09D-x](https://lh7-us.googleusercontent.com/PYatWK5TGA0K07SS0CxSqcbxTcEfGiwRbABw3i-CZL0hR1Eh-yu31JPEHfT3tI67r1ZGIxeIK5fGZievDH596Z6CkX5CCCr_mxcNDgIgnCFyVSztz96F4Tbe2uhxbTQ4dsDzP0g09D-x)
+
+The tool John, that will crack the RSA private key, cannot directly crack the key, first, we need to change the format, which can be done using a john utility called “ssh2john”.
+
+![https://lh7-us.googleusercontent.com/mVMMKOQJWcHWzX1lRfCTRPNz2V_Ovph1OdP_aFqZ5pqUQmS4RuIHK6rd_52XO2os0EX85qYRUSdCnho5mW0duslb3MsG6BZzCCb8QzL4Z_UHze3hY0MB39ba6KQFsmo5eCFj4jyZbyg8](https://lh7-us.googleusercontent.com/mVMMKOQJWcHWzX1lRfCTRPNz2V_Ovph1OdP_aFqZ5pqUQmS4RuIHK6rd_52XO2os0EX85qYRUSdCnho5mW0duslb3MsG6BZzCCb8QzL4Z_UHze3hY0MB39ba6KQFsmo5eCFj4jyZbyg8)
+
+[How to Crack SSH Private Key Passwords with John the Ripper « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/crack-ssh-private-key-passwords-with-john-ripper-0302810/)
+
+![https://lh7-us.googleusercontent.com/wx7g5wpaYn1fSAxNOr5S7f0BpjGA78VmzZTl9b7h5KHDfsfE4jBxTn5MMVvCnXo4Oeept30HNCMMIwSRl83i2qUn3gGPhdY8ey_r41sdcxCkaVMHgRKBmGKNHsCjBvjTqppgVrCPPjZc](https://lh7-us.googleusercontent.com/wx7g5wpaYn1fSAxNOr5S7f0BpjGA78VmzZTl9b7h5KHDfsfE4jBxTn5MMVvCnXo4Oeept30HNCMMIwSRl83i2qUn3gGPhdY8ey_r41sdcxCkaVMHgRKBmGKNHsCjBvjTqppgVrCPPjZc)
+
+![https://lh7-us.googleusercontent.com/I_gYPGD_YvI54k0f_a9FLN7SWl4YJh02RwCkK1R9c3AAUyyIHpkIOySJ-VCcTRtC6gc_EM7-NyV056lb9wSzchXTW3yqd44f45ukC0_kTv8vOFhSZ9KCmUfrFKyBx9pg3XnEJjrAeDDw](https://lh7-us.googleusercontent.com/I_gYPGD_YvI54k0f_a9FLN7SWl4YJh02RwCkK1R9c3AAUyyIHpkIOySJ-VCcTRtC6gc_EM7-NyV056lb9wSzchXTW3yqd44f45ukC0_kTv8vOFhSZ9KCmUfrFKyBx9pg3XnEJjrAeDDw)
+
+bloodninjas
+
+ssh vào joanna cần đứng tại thư mục có file hash giá trị key như trên
+
+We set appropriate permission on the SSH key file(file có giá trị hash lúc đầu).
+
+![https://lh7-us.googleusercontent.com/eOwMZxLPURS2_RtsH8g55ZAyT1Qo8mr67M_ust2hgqvkF0ww1o4mKATNQrBxhDXbrRKIK1zP7E6aDgIamyqDo-qNNeTAROMbkxlQGX9rUC1d_poW5GlzIfXmcP7NDo1uoVdtR02AUYIn](https://lh7-us.googleusercontent.com/eOwMZxLPURS2_RtsH8g55ZAyT1Qo8mr67M_ust2hgqvkF0ww1o4mKATNQrBxhDXbrRKIK1zP7E6aDgIamyqDo-qNNeTAROMbkxlQGX9rUC1d_poW5GlzIfXmcP7NDo1uoVdtR02AUYIn)
+
+![https://lh7-us.googleusercontent.com/oURRb4DaPlbQUUP0imqi9IriwiJ-RX3CNlf64IblIiIcbm7ozp90T-bMir7YjNMqOmdaIdTmhA4iy_haZNIKgnnApJLWMZsQ_I3ZHO5AZSD3CHFFQcDS9WQu3AFo53BS3d2JhUTMGlVF](https://lh7-us.googleusercontent.com/oURRb4DaPlbQUUP0imqi9IriwiJ-RX3CNlf64IblIiIcbm7ozp90T-bMir7YjNMqOmdaIdTmhA4iy_haZNIKgnnApJLWMZsQ_I3ZHO5AZSD3CHFFQcDS9WQu3AFo53BS3d2JhUTMGlVF)
+
+![https://lh7-us.googleusercontent.com/fTx2Q_1JPW6ns4NEwCkutpx6iDs_U7_Xn93eaKwkOXhfHB984sYrLyb9KdGSB3Q5NK3ZjcdPipwpRh6mb821ElVEOxibKz09aHsBdTXmvD3JyhbPM3lL7V9rEm3stMSDuk_1EBO9Rt5D](https://lh7-us.googleusercontent.com/fTx2Q_1JPW6ns4NEwCkutpx6iDs_U7_Xn93eaKwkOXhfHB984sYrLyb9KdGSB3Q5NK3ZjcdPipwpRh6mb821ElVEOxibKz09aHsBdTXmvD3JyhbPM3lL7V9rEm3stMSDuk_1EBO9Rt5D)
+
+![https://lh7-us.googleusercontent.com/Uom_4PR-X-uVfooGtykzQJBibCchV5J-c9aV2ZZWVDXXlWR1w88l5YsLDZvBzgPpreOq6Ji-zi2iKamvFycW2Tz86NNOsAKphX0a7rN2XE9qy-kxuJq6eJnTMKoZvBIcsXJzx0DqrzrQ](https://lh7-us.googleusercontent.com/Uom_4PR-X-uVfooGtykzQJBibCchV5J-c9aV2ZZWVDXXlWR1w88l5YsLDZvBzgPpreOq6Ji-zi2iKamvFycW2Tz86NNOsAKphX0a7rN2XE9qy-kxuJq6eJnTMKoZvBIcsXJzx0DqrzrQ)
+
+có thể run nano dưới quyền mọi người dùng mà ko cần pass
+
+sudo nano /opt/priv
+
+ctrl r : chỉ đọc
+
+ctrl x: thực thi lệnh
+
+có nghĩa đang dùng sudo nên khi vào sh sẽ ở sudo luôn. ngược lại với ko dùng sudo thì vẫn đang ở $ của joanna
+
+![https://lh7-us.googleusercontent.com/vomXLX9UPsUwN-ALH8IVXQLqtaL42jh6sP-9VgD4jKsIMPun6phOREQOJFX0jsvOFOh7Y8R8eoXQ9HqaXGEx8NMle08DDkDdEcMfn2KDAKAMgqkNxIK4fZTDJSzzihw8CW0mJ0GQwRDT](https://lh7-us.googleusercontent.com/vomXLX9UPsUwN-ALH8IVXQLqtaL42jh6sP-9VgD4jKsIMPun6phOREQOJFX0jsvOFOh7Y8R8eoXQ9HqaXGEx8NMle08DDkDdEcMfn2KDAKAMgqkNxIK4fZTDJSzzihw8CW0mJ0GQwRDT)
