@@ -144,7 +144,7 @@ tại thư mục chứa linpeas.sh, tạo 1 server. đồng thời bên shell dw
 
 ![https://lh7-us.googleusercontent.com/0xflh1_ZqyULSbHXeAxsVTe0mWqTC8EHqO8hifugTWHrl6mBOwFyXyPIEjguCw7o9bdC4s-RtLQ9VR9AI9dwbnQoF8POmaLe_fTx_eoTQs1QYtyAukLj2Gmoz1o2XsLWsmAJjyp06CWI](https://lh7-us.googleusercontent.com/0xflh1_ZqyULSbHXeAxsVTe0mWqTC8EHqO8hifugTWHrl6mBOwFyXyPIEjguCw7o9bdC4s-RtLQ9VR9AI9dwbnQoF8POmaLe_fTx_eoTQs1QYtyAukLj2Gmoz1o2XsLWsmAJjyp06CWI)
 
-Trong Linux, polkit là một dịch vụ ủy quyền được sử dụng để cho phép các quy trình không có đặc quyền giao tiếp với các quy trình đặc quyền. Khi một người dùng hoặc quy trình có đặc quyền thấp muốn truy cập các tài nguyên yêu cầu đặc quyền cao hơn, dịch vụ ủy quyền polkit sẽ đưa ra quyết định cho phép hoặc từ chối ở hậu trường hoặc nhắc hộp thoại nhận thêm ủy quyền trước khi cấp các đặc quyền cần thiết.
+Trong Linux, polkit là một dịch vụ ủy quyền được sử dụng để cho phép các process không có đặc quyền giao tiếp với các process đặc quyền. Khi một người dùng hoặc process có đặc quyền thấp muốn truy cập các tài nguyên yêu cầu đặc quyền cao hơn, dịch vụ ủy quyền polkit sẽ đưa ra quyết định cho phép hoặc từ chối ở hậu trường hoặc nhắc hộp thoại nhận thêm ủy quyền trước khi cấp các đặc quyền cần thiết.
 
 CVE-2021-3560 là lỗ hổng bỏ qua xác thực cho phép người dùng thông thường nâng cao đặc quyền của mình lên đặc quyền của người dùng root. Lỗ hổng này có thể được người dùng cục bộ không có đặc quyền sử dụng để tạo quản trị viên cục bộ mới, dẫn đến sự xâm phạm hoàn toàn hệ thống.
 
