@@ -160,7 +160,7 @@ chạy bash poc.sh nhiều lần, và kiểm tra xem user đã được tạo ch
 
 tạo đc và rất nhanh bị xóa
 
-cuộc tấn công tính thời gian chống lại polkit và bằng cách kết thúc quá trình vào đúng thời điểm, nó sẽ bỏ qua xác thực và cho phép các hành động như tạo tài khoản bằng sudo privs và đặt mật khẩu..
+This attack is a timing attack against polkit, and by killing the process at the right time, it ends up skipping the authentication and allow actions such as creating an account with sudo privs and setting the password..
 
 ![https://lh7-us.googleusercontent.com/lc67__PQ5JzrwklMnoy_m9IpN0Ss_QRm9EC8F2JUzPhq7Mho63kN58Im3R14EqWPeJ2OyrYpRa31zfS1B0ohJPbGP7ouoYGADP0tZfuQILtzIn1KE1Ix9oc7F-1Pz2yqeVjnG1vt2gyE](https://lh7-us.googleusercontent.com/lc67__PQ5JzrwklMnoy_m9IpN0Ss_QRm9EC8F2JUzPhq7Mho63kN58Im3R14EqWPeJ2OyrYpRa31zfS1B0ohJPbGP7ouoYGADP0tZfuQILtzIn1KE1Ix9oc7F-1Pz2yqeVjnG1vt2gyE)
 
