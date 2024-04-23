@@ -84,6 +84,8 @@ có pw
 
 ![https://lh7-us.googleusercontent.com/hkMW5TdPtL0eGM6Z6aIXVBEDWkfKmufM2zw33ba-DAw5bhDISUwu1X6zlhgbf_R97see7oRuOZNZxSoAO7tlnLqowYDdB-JpDHwFTzHANN6rrZLbkhiGVEybU28opInFvtrSWpi0z-93](https://lh7-us.googleusercontent.com/hkMW5TdPtL0eGM6Z6aIXVBEDWkfKmufM2zw33ba-DAw5bhDISUwu1X6zlhgbf_R97see7oRuOZNZxSoAO7tlnLqowYDdB-JpDHwFTzHANN6rrZLbkhiGVEybU28opInFvtrSWpi0z-93)
 
+sử dụng jd-gui để xem code
+
 ![https://lh7-us.googleusercontent.com/PdNlnCFvc_BEPPesQvmkKstdlx_Fg5_FcRdqi8DGpQ7xryqbnwgCYuU00UGbzqd4iNWrY3DHvU7UCQL4swqP6jS251YFLU4meBDFL43a04ppckZ-GBYHpp3r1-xENshp0-nfgFFDSHc0](https://lh7-us.googleusercontent.com/PdNlnCFvc_BEPPesQvmkKstdlx_Fg5_FcRdqi8DGpQ7xryqbnwgCYuU00UGbzqd4iNWrY3DHvU7UCQL4swqP6jS251YFLU4meBDFL43a04ppckZ-GBYHpp3r1-xENshp0-nfgFFDSHc0)
 
 8YsqfCTnvxAUeduzjNSXe22
@@ -132,4 +134,4 @@ kiểm tra quyền
 
 lấy flag root
 
-![https://lh7-us.googleusercontent.com/zxBpsr1WAgSDgKIn8cDNbE_KJir_g4S1vXmxGjZc7R8c1bpakjQVAOvFqbfGbNFRxJS46mYYe8-Oq-QgSC3W05Oiky-JywzIS3zZ2Vxd2IwwkSyrVfxJIGzSNSP8qUmKy9q8xGeE9Cbz](https://lh7-us.googleusercontent.com/zxBpsr1WAgSDgKIn8cDNbE_KJir_g4S1vXmxGjZc7R8c1bpakjQVAOvFqbfGbNFRxJS46mYYe8-Oq-QgSC3W05Oiky-JywzIS3zZ2Vxd2IwwkSyrVfxJIGzSNSP8qUmKy9q8xGeE9Cbz)
+![https://lh7-us.googleusercontent.com/laZWnKUihdfczVCVNH-LyucsV5AOvrwaQcG1nYF9Q2cUAgXi44tZAaAo9y-ZHtAj6zfX5h0Ab8qXcNkR0-m7vZsv42-_KGIIGdm4XPQ9yhjbB8WBvb93h2DnxZbMIaaImrFUqNG80tcU](https://lh7-us.googleusercontent.com/laZWnKUihdfczVCVNH-LyucsV5AOvrwaQcG1nYF9Q2cUAgXi44tZAaAo9y-ZHtAj6zfX5h0Ab8qXcNkR0-m7vZsv42-_KGIIGdm4XPQ9yhjbB8WBvb93h2DnxZbMIaaImrFUqNG80tcU)
